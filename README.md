@@ -113,6 +113,12 @@ Issue: Sarcasm and neutral wording could skew sentiment classification.
 
 Solution: Tuned thresholds in VADER (compound >= 0.30 for Positive, <= -0.30 for Negative) and used sentiment only for tone, not decision-making.
 
+### Detailed Project Description:
+(With the DEMO Video and Deployed Link):
+https://docs.google.com/document/d/139pSGvtqXPtYYNHCPwWavt4Xodjo6w3s1MYgRFuoKQw/edit?usp=sharing
+
+
+
 
 
 
